@@ -35,7 +35,4 @@ const commentsByPostId = {
     { id: 12, content: 'Comment 12' },
   ],
 };
-```
-
-###
 
